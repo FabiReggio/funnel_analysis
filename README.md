@@ -23,3 +23,7 @@ We are sending you five different files, assume this is data for one day of oper
 5. User_table.csv - information about users
 
 # Solution of the Challenge 
+
+-Tables: This folder contains the csv files to run Python Scripts.
+-Analysis Explanation: This folder cotains the explanation for each Python script respectively.
+-Main scripts: general.py and sex_and_device.py (Run each script and see the results, review the analysis on the Analysis Explanation Folder)
