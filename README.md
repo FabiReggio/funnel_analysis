@@ -21,3 +21,5 @@ We are sending you five different files, assume this is data for one day of oper
 3. Payment_page_table.csv - information on who landed on the payment page
 4. Payment_confirmation_table.csvn  - information on who landed on the confirmation page
 5. User_table.csv - information about users
+
+# Solution of the Challenge 
